@@ -1,1 +1,3 @@
-*Adventures In Rebase-bysitting*
+# Adventures in Rebase-bysitting
+
+Do things, then delete this repository.
